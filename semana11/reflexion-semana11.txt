@@ -1,0 +1,15 @@
+Una plataforma de participación ciudadana necesita una base de datos para organizar y guardar toda la información de forma ordenada y segura.
+
+La autenticación de usuarios es fundamental para verificar la identidad de cada persona y evitar accesos no autorizados.
+
+Esto permite asignar permisos adecuados y garantizar que solo quienes corresponda puedan crear o modificar contenidos.
+
+La protección de la información evita la filtración de datos privados y el uso indebido de la información de los participantes.
+
+Estos elementos generan confianza en la comunidad, ya que saben que sus aportes y datos están resguardados.
+
+Además, facilitan el mantenimiento del sistema, permiten hacer consultas eficientes y aseguran que la plataforma funcione de manera estable.
+
+Sin estas medidas, la información podría desorganizarse, perderse o ser manipulada, afectando la transparencia y la participación.
+
+En definitiva, son la base para construir una herramienta confiable, inclusiva y útil para el trabajo colectivo.

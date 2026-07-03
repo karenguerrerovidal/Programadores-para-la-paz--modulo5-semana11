@@ -1,0 +1,9 @@
+La interfaz es sencilla y está pensada para usarse fácil desde celulares.
+
+Incluye un formulario para crear una causa, con campos para título, descripción detallada y ubicación.
+
+Tiene una vista principal con la lista de todas las causas comunitarias disponibles.
+
+Cada causa muestra su información, un botón claro para dar apoyo y un contador que indica cuántas personas la han apoyado.
+
+El diseño es limpio, con letras legibles y botones grandes, para que cualquier persona pueda usarla sin complicaciones.
